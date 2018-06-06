@@ -4,7 +4,7 @@
 ## 浏览器兼容类🌎
   
   * [caniuse](https://caniuse.com/) （网站开发浏览器兼容性查询）
-  * [browserhacks](http://browserhacks.com/) (css一些浏览器兼容写法)
+  * [browserhacks](http://browserhacks.com/) (一些浏览器兼容写法)
 
 ## 图片类😎
   
