@@ -23,7 +23,7 @@
   
   * [Ubuntu pastebin](https://paste.ubuntu.com/) （代码分享）
   * [Codepen](https://codepen.io/pens/) (在线代码编辑)
-  * [jsbin](http://jsbin.com/) (在线代码编辑)
+  * [Jsbin](http://jsbin.com/) (在线代码编辑)
   * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) (生成 css 渐变)
   * [Grabient](https://www.grabient.com/) (生成漂亮的 css 渐变)
   * [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) (各种符号的转义字符)
@@ -33,7 +33,7 @@
   * [Animista](http://animista.net/) (在线生成 css 动画)
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) (测试网站速度，优化性能)
   * [Learn Git Branching](https://learngitbranching.js.org/) (以动画的形式让你学习 git)
-  * [asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
+  * [Asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
 
 ## 效率类⚡️
   
@@ -42,5 +42,6 @@
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
   * [Enhancv](https://enhancv.com/) (生成简历)
   * [KOPPT](http://www.koppt.cn/index) (ppt 模板)
-  * [canva](https://www.canva.com/templates/) (设计模板)
+  * [Canva](https://www.canva.com/templates/) (设计模板)
   * [ProcessOn](https://www.processon.com/;jsessionid=EC0CB59BD105F6FD0294417AB0B0CC22.jvm1) (在线画流程图，思维导图、UI原型图等等)
+  * [WakaTime](https://wakatime.com/) (跟踪项目花费的时间，得装插件)
