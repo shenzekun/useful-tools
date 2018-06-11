@@ -35,6 +35,7 @@
   * [Learn Git Branching](https://learngitbranching.js.org/) (以动画的形式让你学习 git)
   * [Asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
   * [PXtoEM](http://pxtoem.com/) (PX EM 单位换算)
+  * [Awehunt](https://awehunt.com/npmdownloads?ids=react,angular,vue,ember-cli) (npm包下载量曲线对比)
 
 ## 效率类⚡️
   
