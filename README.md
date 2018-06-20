@@ -29,6 +29,7 @@
   * [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) (各种符号的转义字符)
   * [缓动函数速查表](https://easings.net/zh-cn?tuyiyi.com)
   * [Regexper](https://regexper.com/) (正则可视化)
+  * [Regex101](https://regex101.com/) (正则表达式测试)
   * [Visualgo](https://visualgo.net/en) (数据结构，算法可视化)
   * [Animista](http://animista.net/) (在线生成 css 动画)
   * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/) (测试网站速度，优化性能)
