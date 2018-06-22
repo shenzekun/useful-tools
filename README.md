@@ -53,6 +53,7 @@
   * [Habitica](https://habitica.com/) (游戏化Todo)
   * [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
   * [草料二维码](https://cli.im/) (在线生成二维码)
+  * [声享](https://ppt.baomitu.com)（在线制作 PPT）
  
 
 ## 查询类🔎
