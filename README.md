@@ -51,11 +51,11 @@
   * [WakaTime](https://wakatime.com/) (跟踪项目花费的时间，得装插件)
   * [Screen Sizes](http://screensiz.es/) (移动屏幕尺寸)
   * [Habitica](https://habitica.com/) (游戏化Todo)
-  * [ Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
+  * [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
   * [草料二维码](https://cli.im/) (在线生成二维码)
  
 
 ## 查询类
 
- * [ devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
- * [印象笔记](https://docschina.org/) （快速查询各类框架和周边库的中文文档)
+ * [devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
+ * [印记笔记](https://docschina.org/) （快速查询各类框架和周边库的中文文档)
