@@ -2,12 +2,12 @@
 > 🔨 一些有用的工具网站（**注意**：有些网站可能需要翻墙才能看到）
 
 ## 浏览器兼容类🌎
-  
+
   * [caniuse](https://caniuse.com/) （网站开发浏览器兼容性查询）
   * [browserhacks](http://browserhacks.com/) (一些浏览器兼容写法)
 
 ## 图片类😎
-  
+
   * [Tinypng](https://tinypng.com/) （压缩图片）
   * [标你妹啊](http://www.biaonimeia.com/login) (psd 标注)
   * [Cool Backgrounds](https://coolbackgrounds.io/) （生成好看的渐变背景图）
@@ -20,7 +20,7 @@
   * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
 
  ## 代码类⌨️
-  
+
   * [Ubuntu pastebin](https://paste.ubuntu.com/) （代码分享）
   * [Codepen](https://codepen.io/pens/) (在线代码编辑)
   * [Jsbin](http://jsbin.com/) (在线代码编辑)
@@ -37,9 +37,10 @@
   * [Learn Git Branching](https://learngitbranching.js.org/) (以动画的形式让你学习 git)
   * [Asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
   * [PXtoEM](http://pxtoem.com/) (PX EM 单位换算)
+  * [epic-spinners](http://epic-spinners.epicmax.co/#/) (一个好看的css loading 代码库)
 
 ## 效率类⚡️
-  
+
   * [墨刀](https://modao.cc/) （画原型图）
   * [石墨文档](https://shimo.im/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
@@ -50,4 +51,11 @@
   * [WakaTime](https://wakatime.com/) (跟踪项目花费的时间，得装插件)
   * [Screen Sizes](http://screensiz.es/) (移动屏幕尺寸)
   * [Habitica](https://habitica.com/) (游戏化Todo)
-  * [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
+  * [ Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
+  * [草料二维码](https://cli.im/) (在线生成二维码)
+ 
+
+## 查询类
+
+ * [ devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
+ * [印象笔记](https://docschina.org/) （快速查询各类框架和周边库的中文文档)
