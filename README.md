@@ -24,6 +24,7 @@
   * [Ubuntu pastebin](https://paste.ubuntu.com/) （代码分享）
   * [Codepen](https://codepen.io/pens/) (在线代码编辑)
   * [Jsbin](http://jsbin.com/) (在线代码编辑)
+  * [CodeSandbox](https://codesandbox.io/) (在线写React,自动编译,有代码提示)
   * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) (生成 css 渐变)
   * [Grabient](https://www.grabient.com/) (生成漂亮的 css 渐变)
   * [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) (各种符号的转义字符)
@@ -53,9 +54,11 @@
   * [Habitica](https://habitica.com/) (游戏化Todo)
   * [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
   * [草料二维码](https://cli.im/) (在线生成二维码)
+  * [声享](https://ppt.baomitu.com)（在线制作 PPT）
+  * [幕布](https://mubu.com/)（极简大纲笔记，一键生成思维导图）
  
 
 ## 查询类🔎
 
  * [devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
- * [印记笔记](https://docschina.org/) （快速查询各类框架和周边库的中文文档)
+ * [印记中文](https://docschina.org/) （快速查询各类框架和周边库的中文文档)
