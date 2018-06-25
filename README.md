@@ -3,25 +3,25 @@
 
 ## 浏览器兼容类🌎
 
-  * [caniuse](https://caniuse.com/) （网站开发浏览器兼容性查询）
+  * [caniuse](https://caniuse.com/) (网站开发浏览器兼容性查询)
   * [browserhacks](http://browserhacks.com/) (一些浏览器兼容写法)
 
 ## 图片类😎
 
-  * [Tinypng](https://tinypng.com/) （压缩图片）
+  * [Tinypng](https://tinypng.com/) | [智图](http://zhitu.isux.us/) (压缩图片)
   * [标你妹啊](http://www.biaonimeia.com/login) (psd 标注)
-  * [Cool Backgrounds](https://coolbackgrounds.io/) （生成好看的渐变背景图）
+  * [Cool Backgrounds](https://coolbackgrounds.io/) (生成好看的渐变背景图)
   * [carbon](https://carbon.now.sh/?bg=rgba(171,%20184,%20195,%201)&t=seti&wt=none&l=auto&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=48px&ph=32px&ln=false&fm=Hack&fs=14px&si=false&es=2x&wm=false) (生成类似 mac 风格的代码图片，用于分享)  
   * [Unsplash Source](https://source.unsplash.com/) (生成随机图片) 
   * [CSS Sprite Generator](https://spritegen.website-performance.org/) (生成雪碧图)
   * [iconfont](http://www.iconfont.cn/plus) (阿里巴巴矢量图标库)
-  * [Preloaders](https://icons8.com/preloaders/) (加载图，**有些是收费的**)
-  * [desktoppr](https://www.desktoppr.co/wallpapers) （好看的壁纸）
+  * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
+  * [desktoppr](https://www.desktoppr.co/wallpapers) (好看的壁纸)
   * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
 
  ## 代码类⌨️
 
-  * [Ubuntu pastebin](https://paste.ubuntu.com/) （代码分享）
+  * [Ubuntu pastebin](https://paste.ubuntu.com/) (代码分享)
   * [Codepen](https://codepen.io/pens/) (在线代码编辑)
   * [Jsbin](http://jsbin.com/) (在线代码编辑)
   * [CodeSandbox](https://codesandbox.io/) (在线写React,自动编译,有代码提示)
@@ -42,7 +42,7 @@
 
 ## 效率类⚡️
 
-  * [墨刀](https://modao.cc/) （画原型图）
+  * [墨刀](https://modao.cc/) (画原型图)
   * [石墨文档](https://shimo.im/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
   * [Enhancv](https://enhancv.com/) (生成简历)
@@ -54,11 +54,11 @@
   * [Habitica](https://habitica.com/) (游戏化Todo)
   * [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
   * [草料二维码](https://cli.im/) (在线生成二维码)
-  * [声享](https://ppt.baomitu.com)（在线制作 PPT）
-  * [幕布](https://mubu.com/)（极简大纲笔记，一键生成思维导图）
+  * [声享](https://ppt.baomitu.com) (在线制作 PPT)
+  * [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
  
 
 ## 查询类🔎
 
  * [devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
- * [印记中文](https://docschina.org/) （快速查询各类框架和周边库的中文文档)
+ * [印记中文](https://docschina.org/) (快速查询各类框架和周边库的中文文档)
