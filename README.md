@@ -57,6 +57,7 @@
   * [草料二维码](https://cli.im/) (在线生成二维码)
   * [声享](https://ppt.baomitu.com) (在线制作 PPT)
   * [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
+  * [Infogram](https://infogram.com/) (在线图表制作工具)
  
 
 ## 查询类🔎
