@@ -49,6 +49,7 @@
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
   * [Enhancv](https://enhancv.com/) (生成简历)
   * [KOPPT](http://www.koppt.cn/index) (ppt 模板)
+  * [Beautiful.Ai](https://about.beautiful.ai/) (人工智能 ppt 模板创建)
   * [Canva](https://www.canva.com/templates/) (设计模板)
   * [ProcessOn](https://www.processon.com/;jsessionid=EC0CB59BD105F6FD0294417AB0B0CC22.jvm1) (在线画流程图，思维导图、UI原型图等等)
   * [WakaTime](https://wakatime.com/) (跟踪项目花费的时间，得装插件)
