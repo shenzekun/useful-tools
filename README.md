@@ -21,6 +21,8 @@
   * [Iloveimg](https://www.iloveimg.com/zh-cn) (批量编辑图片的所有工具。包括压缩图片，剪裁图片，图片加水印，转化至jpg图片等等)
   * [pkgif](https://www.pkgif.net/) (任意GIF添加字幕)
   * [ImageCyborg](https://imagecyborg.com/) (一键下载当前网页的所有图片)
+  * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
+  * [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
 
  ## 代码类⌨️
 
