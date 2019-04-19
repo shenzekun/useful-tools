@@ -65,6 +65,7 @@
   * [Infogram](https://infogram.com/) (在线图表制作工具)
   * [UZER.ME](https://uzer.me/) (能够在线使用ps，ai，office，xmind，火狐浏览器等多个应用的网站)
   * [NiceTool](http://www.nicetool.net/) (在线工具集合网站)
+  * [codelf](https://unbug.github.io/codelf/) (开发变量命名神器)
 
 ## 查询类🔎
 
