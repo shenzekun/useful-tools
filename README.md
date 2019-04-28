@@ -66,6 +66,9 @@
   * [UZER.ME](https://uzer.me/) (能够在线使用ps，ai，office，xmind，火狐浏览器等多个应用的网站)
   * [NiceTool](http://www.nicetool.net/) (在线工具集合网站)
   * [codelf](https://unbug.github.io/codelf/) (开发变量命名神器)
+  * [表格转换](https://tableconvert.com/) (Markdown表格生成,LaTex表格生成)
+  * [JSONPath](https://www.rdtoc.com/tools/jsonpath) (在线JSON提取工具)
+  * [JMESPath](https://www.rdtoc.com/tools/jmespath) (在线JSON提取工具)
 
 ## 查询类🔎
 
