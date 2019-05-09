@@ -23,17 +23,17 @@
   * [ImageCyborg](https://imagecyborg.com/) (一键下载当前网页的所有图片)
   * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
   * [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
+  * [SVGOMG](https://jakearchibald.github.io/svgomg/) (SVG图形压缩优化)
 
  ## 代码类⌨️
 
   * [Ubuntu pastebin](https://paste.ubuntu.com/) (代码分享)
-  * [Codepen](https://codepen.io/pens/) (在线代码编辑)
-  * [Jsbin](http://jsbin.com/) (在线代码编辑)
+  * [Codepen](https://codepen.io/pens/) | [Jsbin](http://jsbin.com/) (在线代码编辑)
   * [CodeSandbox](https://codesandbox.io/) (在线写React,自动编译,有代码提示)
   * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/) (生成 css 渐变)
   * [Grabient](https://www.grabient.com/) (生成漂亮的 css 渐变)
   * [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) (各种符号的转义字符)
-  * [css三角形产生器](http://apps.eky.hk/css-triangle-generator/zh-hant)
+  * [css三角形产生器](http://apps.eky.hk/css-triangle-generator/zh-hant) | [CSS ARROW PLEASE](http://www.cssarrowplease.com/) (生成CSS小三角) 
   * [缓动函数速查表](https://easings.net/zh-cn?tuyiyi.com)
   * [Regexper](https://regexper.com/) (正则可视化)
   * [Regex101](https://regex101.com/) (正则表达式测试)
@@ -48,7 +48,7 @@
 ## 效率类⚡️
 
   * [墨刀](https://modao.cc/) (画原型图)
-  * [石墨文档](https://shimo.im/) (多人实时协作的云端文档与表格)
+  * [石墨文档](https://shimo.im/) | [腾讯文档](https://docs.qq.com/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
   * [Enhancv](https://enhancv.com/) (生成简历)
   * [KOPPT](http://www.koppt.cn/index) (ppt 模板)
@@ -76,3 +76,4 @@
  * [印记中文](https://docschina.org/) (快速查询各类框架和周边库的中文文档)
  * [Css Triggers](https://csstriggers.com/) (列出了哪些CSS属性在不同的渲染引擎中是否会触发重排或重绘)
  * [Security Headers](https://securityheaders.com/) (搜索网站是否有不安全的头部 header 设置，并会评分)
+ * [devdocs](https://devdocs.io/) (各种编程语言 API 文档)
