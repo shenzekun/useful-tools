@@ -44,6 +44,7 @@
   * [Asciiflow](http://asciiflow.com/) (生成类似代码注释里那种佛祖的代码。。自己画😄)
   * [PXtoEM](http://pxtoem.com/) (PX EM 单位换算)
   * [epic-spinners](http://epic-spinners.epicmax.co/#/) (一个好看的css loading 代码库)
+  * [Emogrifier](https://www.myintervals.com/emogrifier.php) (邮件模板必备工具-html转换成内联样式)
 
 ## 效率类⚡️
 
