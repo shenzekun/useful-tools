@@ -34,7 +34,7 @@
   * [Grabient](https://www.grabient.com/) (生成漂亮的 css 渐变)
   * [Character Entity Reference Chart](https://dev.w3.org/html5/html-author/charref) (各种符号的转义字符)
   * [css三角形产生器](http://apps.eky.hk/css-triangle-generator/zh-hant) | [CSS ARROW PLEASE](http://www.cssarrowplease.com/) (生成CSS小三角) 
-  * [缓动函数速查表](https://easings.net/zh-cn?tuyiyi.com)
+  * [缓动函数速查表](https://easings.net/)
   * [Regexper](https://regexper.com/) (正则可视化)
   * [Regex101](https://regex101.com/) (正则表达式测试)
   * [Visualgo](https://visualgo.net/en) (数据结构，算法可视化)
