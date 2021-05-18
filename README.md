@@ -46,6 +46,7 @@
   * [PXtoEM](http://pxtoem.com/) (PX EM 单位换算)
   * [epic-spinners](http://epic-spinners.epicmax.co/#/) (一个好看的css loading 代码库)
   * [Emogrifier](https://www.myintervals.com/emogrifier.php) (邮件模板必备工具-html转换成内联样式)
+  * [NGINXConfig](https://www.digitalocean.com/community/tools/nginx)（生成 nginx 配置）
 
 ## 效率类⚡️
 
