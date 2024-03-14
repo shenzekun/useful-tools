@@ -67,6 +67,7 @@
   * [codelf](https://unbug.github.io/codelf/) (开发变量命名神器)
   * [表格转换](https://tableconvert.com/) (Markdown表格生成,LaTex表格生成)
   * [alltoall](https://www.alltoall.net/) (在线文件转换，支持 200 多种文件格式转换)
+  * [URL工具](https://www.huatools.com/urlparam-format/)（URL解析，解析后可编辑参数并重新生成链接）
 
 ## 查询类🔎
 
