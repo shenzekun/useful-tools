@@ -47,7 +47,7 @@
   * [NGINXConfig](https://www.digitalocean.com/community/tools/nginx)（生成 nginx 配置）
 
 ## 效率类⚡️
-
+  * [Comet](https://pplx.ai/szk726664828862)（浏览器登录对话，和ai交流）
   * [墨刀](https://modao.cc/) (画原型图)
   * [石墨文档](https://shimo.im/) | [腾讯文档](https://docs.qq.com/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
