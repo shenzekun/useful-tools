@@ -67,6 +67,7 @@
   * [UZER.ME](https://uzer.me/) (能够在线使用ps，ai，office，xmind，火狐浏览器等多个应用的网站)
   * [codelf](https://unbug.github.io/codelf/) (开发变量命名神器)
   * [表格转换](https://tableconvert.com/) (Markdown表格生成,LaTex表格生成)
+  * [Excel to Markdown](https://exceltomd.com/excel-to-markdown) (浏览器本地将 XLSX、XLS、CSV 转成 Markdown 表格，无需上传文件)
   * [alltoall](https://www.alltoall.net/) (在线文件转换，支持 200 多种文件格式转换)
   * [URL工具](https://www.huatools.com/urlparam-format/)（URL解析，解析后可编辑参数并重新生成链接）
 
