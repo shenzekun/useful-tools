@@ -52,6 +52,7 @@
   * [石墨文档](https://shimo.im/) | [腾讯文档](https://docs.qq.com/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
   * [Enhancv](https://enhancv.com/) (生成简历)
+  * [ResumeAI](https://withresumeai.com/) (AI 简历 + 免费 ATS 检查；State of ATS 2026：738/704，Workday 37.9%)
   * [KOPPT](http://www.koppt.cn/index) (ppt 模板)
   * [Beautiful.Ai](https://about.beautiful.ai/) (人工智能 ppt 模板创建)
   * [Canva](https://www.canva.com/templates/) (设计模板)
