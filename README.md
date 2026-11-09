@@ -63,7 +63,7 @@
   * [Habitica](https://habitica.com/) (游戏化Todo)
   * [Smallpdf](https://smallpdf.com/) (非常厉害的一个网站，PDF压缩，PDF转PPT，Word，Excel等等都可以直接通过这个页面实现)
   * [Filesvo](https://filesvo.com/) (104 个免费文件工具：图片、PDF、音频、视频、压缩包的转换、压缩、合并等，全部在浏览器本地处理，文件不上传，无需注册)
-  * [Toolknit](https://toolknit.com/zh/)（工具集，96个在线工具，图片、音频、视频、PDF、实用计算等工具）
+  * [ToolKnit](https://toolknit.com/zh/)（工具集，96个在线工具，图片、音频、视频、PDF、实用计算等工具）
   * [草料二维码](https://cli.im/) (在线生成二维码)
   * [幕布](https://mubu.com/) (极简大纲笔记，一键生成思维导图)
   * [Infogram](https://infogram.com/) (在线图表制作工具)
