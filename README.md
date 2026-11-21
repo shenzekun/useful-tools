@@ -21,6 +21,7 @@
   * [ImageCyborg](https://imagecyborg.com/) (一键下载当前网页的所有图片)
   * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
   * [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
+  * [BackGone](https://backgone.com/) (在线去除图片背景，免注册，支持动图 GIF 去背景)
   * [SVGOMG](https://jakearchibald.github.io/svgomg/) (SVG图形压缩优化)
 
  ## 代码类⌨️
