@@ -17,6 +17,7 @@
   * [Preloaders](https://icons8.com/preloaders/) | [LOADING.IO](https://loading.io/) (加载图，**有些是收费的**)
   * [Material icons](https://material.io/tools/icons/?style=baseline) (Material icons图标)
   * [Iloveimg](https://www.iloveimg.com/zh-cn) (批量编辑图片的所有工具。包括压缩图片，剪裁图片，图片加水印，转化至jpg图片等等)
+  * [BatchSet](https://batchset.com/) (批量压缩、调整尺寸、转换图片格式，在浏览器本地处理，不上传图片)
   * [pkgif](https://www.pkgif.net/) (任意GIF添加字幕)
   * [ImageCyborg](https://imagecyborg.com/) (一键下载当前网页的所有图片)
   * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
