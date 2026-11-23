@@ -22,6 +22,7 @@
   * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
   * [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
   * [SVGOMG](https://jakearchibald.github.io/svgomg/) (SVG图形压缩优化)
+  * [Free HEIC to JPG](https://free-heic-to-jpg.web-free.site/) (iPhone HEIC/HEIF 照片批量转 JPG 或 PNG，浏览器本地处理，文件不上传，无需注册)
 
  ## 代码类⌨️
 
