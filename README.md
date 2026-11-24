@@ -22,6 +22,7 @@
   * [MarkMaker](http://emblemmatic.org/markmaker/#/) (在线 logo 随机生成工具)
   * [Removebg](https://www.remove.bg/) (在线移除背景工具，想改图片的背景可以用这个，证件照必备😀)
   * [SVGOMG](https://jakearchibald.github.io/svgomg/) (SVG图形压缩优化)
+  * [Image Compressor](https://bestlatestapps.com/tools/image-compressor/) (浏览器本地批量压缩 JPG、PNG、WebP、HEIC 图片到指定 KB，一次最多 200 张，图片不上传；免费，网站有广告)
 
  ## 代码类⌨️
 
