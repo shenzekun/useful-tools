@@ -50,6 +50,7 @@
 ## 效率类⚡️
   * [Comet](https://pplx.ai/szk726664828862)（浏览器登录对话，和ai交流，活动可以免费送一个月）
   * [墨刀](https://modao.cc/) (画原型图)
+  * [Kite](https://kite.new/) (团队与 AI 智能体共用的 UI 设计工具：Claude、Cursor 等通过 MCP 直接画可编辑图层，可复制为 HTML/React/Tailwind，有免费版)
   * [石墨文档](https://shimo.im/) | [腾讯文档](https://docs.qq.com/) (多人实时协作的云端文档与表格)
   * [resume-examples](https://www.hloom.com/resume-examples/) (简历模板)
   * [Enhancv](https://enhancv.com/) (生成简历)
