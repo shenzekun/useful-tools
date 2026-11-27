@@ -74,6 +74,8 @@
   * [alltoall](https://www.alltoall.net/) (在线文件转换，支持 200 多种文件格式转换)
   * [URL工具](https://www.huatools.com/urlparam-format/)（URL解析，解析后可编辑参数并重新生成链接）
 
+  * [StagePeek](https://stagepeek.live/zh-CN/) (演唱会场馆 2D 座位图与 3D 舞台视角模拟器，覆盖全球 201 座体育场与剧院，免登录免费体验首座 1x–10x 手机变焦视野)
+
 ## 查询类🔎
 
  * [devhints](https://devhints.io/) (常用速查表，快速查询各类框架和库的常用方法，很实用)
